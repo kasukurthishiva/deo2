@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is changing the branch
+=======
+hi good morning everone
+this the modified file 
+>>>>>>> b1
